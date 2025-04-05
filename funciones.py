@@ -7,3 +7,37 @@ print(b)
 c = chr(65)
 print(c)
 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+print ("hola nuevo mundo")

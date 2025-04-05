@@ -1,5 +1,5 @@
 def contar_votos():
-    # Inicializamos un diccionario para contar los votos de cada candidato
+    
     votos = {1: 0, 2: 0, 3: 0, 4: 0}
     total_votos = 0
 
@@ -24,5 +24,6 @@ def contar_votos():
         print(f"Candidato {candidato}: {votos[candidato]} votos, {porcentaje:.2f}% del total")
 
 contar_votos()
+
 
 
